@@ -1,6 +1,5 @@
 const express = require("express");
 const path = require("path");
-const { ap } = require("ramda");
 
 const router = require("./src/router");
 
